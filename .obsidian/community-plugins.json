@@ -1,13 +1,14 @@
 [
-  "obsidian-style-settings",
-  "obsidian-banners",
   "floating-toc",
-  "obsidian-dynamic-highlights",
   "obsidian-code-block-enhancer",
+  "calendar",
   "templater-obsidian",
-  "obsidian-admonition",
   "various-complements",
-  "buttons",
   "obsidian-view-mode-by-frontmatter",
-  "calendar"
+  "buttons",
+  "obsidian-banners",
+  "obsidian-admonition",
+  "obsidian-dynamic-highlights",
+  "obsidian-style-settings",
+  "editing-toolbar"
 ]

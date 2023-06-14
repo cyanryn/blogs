@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b5c63364021d39f",
+            "id": "5ca19a6a14569a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nest/class-validator.md",
-                "mode": "preview",
+                "file": "TypeORM/README.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "247616d9ef07c4fc",
+            "id": "688f5c9427f98e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "TypeORM/DataSource.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TypeORM/DataSource.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TypeORM/DataSource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TypeORM/DataSource.md"
               }
             }
           },
@@ -168,17 +168,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "247616d9ef07c4fc",
+  "active": "688f5c9427f98e27",
   "lastOpenFiles": [
-    "nest/nestjs使用文档/README.md",
     "README.md",
+    "TypeORM/README.md",
+    "site.md",
+    "'TypeORM/Entity.md",
+    "TypeORM/DataSource.md",
+    "nest/nestjs使用文档/README.md",
+    "TypeORM/Query-Builder.md",
+    "TypeORM/Entity-Manager-and-Repository.md",
+    "TypeORM/'Entity.md",
+    "TypeORM/Entity.md",
+    "TypeORM/Entity Manager and Repository.md",
+    "TypeORM/EntityManagerandRepository.md",
+    "'TypeORM",
+    "TypeORM/Relations.md",
+    "nest/TypeScript.md",
+    "nest/TypeORM.md",
+    "TypeORM",
     "nest/class-validator.md",
-    "nest/nestjs使用文档/Pipes.md",
     "obsidian/使用方式.md",
+    "System/templates/日记模板.md",
+    "nest/nestjs使用文档/Pipes.md",
+    "nest/Pipes.md",
     "System/templates/按钮列表.md",
     "System/templates/笔记模板.md",
     "System/templates/常用工具.md",
-    "System/templates/日记模板.md",
     "System/templates",
     "System",
     "nest/nestjs.md",
@@ -195,9 +211,6 @@
     "Pasted image 20230613222747.png",
     "Pasted image 20230613223117.png",
     "Attach",
-    "未命名.canvas",
-    "2023-06-07.md",
-    "obsidian",
-    "nest"
+    "未命名.canvas"
   ]
 }
