@@ -1,9 +1,9 @@
 
-- 『[DataSource](TypeORM/DataSource.md)』
-- 『[Entity](TypeORM/Entity.md)』
-- 『[Relations](TypeORM/Relations.md)』
-- 『[Entity Manager and Repository](TypeORM/Entity-Manager-and-Repository.md)』
-- 『[Query Builder](TypeORM/Query-Builder.md)』
+- 『[DataSource](DataSource.md)』
+- 『[Entity](Entity.md)』
+- 『[Relations](Relations.md)』
+- 『[Entity Manager and Repository](Entity-Manager-and-Repository.md)』
+- 『[Query Builder](Query-Builder.md)』
 
 ## 参考链接
 
