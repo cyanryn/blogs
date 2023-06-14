@@ -616,8 +616,33 @@ export function IsUserAlreadyExist(validationOptions?: ValidationOptions) {
 }
 ```
 
+## 十四、使用服务容器
+如果想将依赖项注入到自定义验证器约束类中，则：
+```js
+import { Container } from 'typedi';
+import { useContainer, Validator } from 'class-validator';
 
-## 十四、手动验证
+// do this somewhere in the global application level:
+useContainer(Container);
+let validator = Container.get(Validator);
+
+// now everywhere you can inject Validator class which will go from the container
+// also you can inject classes using constructor injection into your custom ValidatorConstraint-s
+```
+
+
+与typeorm集成示例
+```js
+async function bootstrap() {
+    // ...
+    useContainer(app.select(AppModule), {
+        fallbackOnErrors: true,
+    });
+    await app.listen(3000);
+}
+```
+
+## 十五、手动验证
 
 ```js
 import { isEmpty, isBoolean } from 'class-validator';
@@ -626,7 +651,7 @@ isEmpty(value);
 isBoolean(value);
 ```
 
-## 十五、验证普通对象
+## 十六、验证普通对象
 
 通过 [class-transformer](https://github.com/pleerock/class-transformer)将普通对象转成类实例，再进行验证。
 
