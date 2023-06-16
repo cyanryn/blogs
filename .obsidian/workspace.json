@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeORM/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "688f5c9427f98e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "nest/总结/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "nest/总结/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "nest/总结/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "nest/总结/README.md"
               }
             }
           },
@@ -147,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be54c8bb58042a9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -165,52 +160,54 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "688f5c9427f98e27",
+  "active": "5ca19a6a14569a5f",
   "lastOpenFiles": [
-    "nest/nestjs使用文档/README.md",
-    "nest/nestjs使用文档/Pipes.md",
-    "README.md",
     "TypeORM/README.md",
+    "README.md",
+    "TypeORM/Relations.md",
+    "nest/nestjs使用文档/README.md",
+    "nest/nestjs使用文档/Serialization.md",
+    "nest/nestjs使用文档/Execution-context.md",
+    "nest/nestjs使用文档/Interceptors.md",
+    "nest/nestjs使用文档/Exception-filters.md",
+    "nest/nestjs使用文档/Guards.md",
+    "nest/nestjs使用文档/Database.md",
+    "nest/nestjs使用文档/Pipes.md",
+    "practice/从0到1搭建nest框架.md",
     "TypeORM/DataSource.md",
+    "nest/总结/README.md",
     "site.md",
+    "cedict_ts.u8",
+    "nest/nestjs使用文档/Validation.md",
+    "nest/总结/nest的验证流程.canvas",
+    "nest的验证流程.md",
+    "nest/总结/nest的验证流程.md",
+    "nest/总结",
+    "nest/nestjs使用文档/Controllers.md",
+    "nest/class-validator.md",
     "'TypeORM/Entity.md",
     "TypeORM/Query-Builder.md",
     "TypeORM/Entity-Manager-and-Repository.md",
     "TypeORM/'Entity.md",
     "TypeORM/Entity.md",
     "TypeORM/Entity Manager and Repository.md",
-    "TypeORM/EntityManagerandRepository.md",
     "'TypeORM",
-    "TypeORM/Relations.md",
-    "nest/TypeScript.md",
-    "nest/TypeORM.md",
     "TypeORM",
-    "nest/class-validator.md",
-    "obsidian/使用方式.md",
-    "System/templates/日记模板.md",
-    "nest/Pipes.md",
-    "System/templates/按钮列表.md",
-    "System/templates/笔记模板.md",
-    "System/templates/常用工具.md",
     "System/templates",
     "System",
-    "nest/nestjs.md",
     "nest/nestjs使用文档/未命名.canvas",
-    "practice/从0到1搭建nest框架.md",
     "practice",
     "实践",
     "nest/nestjs使用文档",
     "nest/官方文档翻译",
-    "nest/未命名文件夹",
-    "nest/从0到1搭建nest框架.md",
     "Attach/Pasted image 20230613223314.png",
     "Attach/Pasted image 20230613223223.png",
     "Pasted image 20230613222747.png",
     "Pasted image 20230613223117.png",
-    "Attach",
     "未命名.canvas"
   ]
 }

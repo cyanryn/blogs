@@ -28,5 +28,7 @@
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@bt-status-on": false,
   "blue-topaz-theme@@tab-title-bar-position": false,
-  "blue-topaz-theme@@toggle-paragraph-spacing": false
+  "blue-topaz-theme@@toggle-paragraph-spacing": false,
+  "blue-topaz-theme@@line-height-list": 1.6,
+  "blue-topaz-theme@@line-height-main": 1.8
 }

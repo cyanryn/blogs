@@ -10,5 +10,7 @@
   "obsidian-admonition",
   "obsidian-dynamic-highlights",
   "obsidian-style-settings",
-  "editing-toolbar"
+  "editing-toolbar",
+  "code-block-plugin",
+  "table-editor-obsidian"
 ]

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"ValidationPipe\n（Transform + Validate）","id":"d367cc8fc1d26061","x":-380,"y":-220,"width":250,"height":80},
+		{"type":"text","text":"Guest","id":"0975a1a695dea904","x":-380,"y":-360,"width":250,"height":60},
+		{"type":"text","text":"进入Controller","id":"9c1ce41059cc5338","x":-40,"y":-210,"width":140,"height":60}
+	],
+	"edges":[
+		{"id":"9b6a751aa44ee4c2","fromNode":"0975a1a695dea904","fromSide":"bottom","toNode":"d367cc8fc1d26061","toSide":"top","label":"requests"},
+		{"id":"bdd17437d87cc8f6","fromNode":"d367cc8fc1d26061","fromSide":"right","toNode":"9c1ce41059cc5338","toSide":"left","label":"成功"}
+	]
+}
