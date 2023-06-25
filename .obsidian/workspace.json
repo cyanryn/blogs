@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nest/总结/README.md",
+                "file": "nest/nestjs使用文档/Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "dda535ee170b5273",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nest/总结/README.md",
+                "file": "nest/nestjs使用文档/Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nest/总结/README.md",
+                "file": "nest/nestjs使用文档/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nest/总结/README.md"
+                "file": "nest/nestjs使用文档/Configuration.md"
               }
             }
           },
@@ -166,44 +174,44 @@
   },
   "active": "5ca19a6a14569a5f",
   "lastOpenFiles": [
-    "TypeORM/README.md",
-    "README.md",
-    "TypeORM/Relations.md",
+    "works/国外项目.md",
+    "未命名",
+    "next/next使用手册",
+    "next",
+    "practice/从0到1搭建nest框架/连接数据库.md",
+    "practice/从0到1搭建nest框架/README.md",
+    "practice/从0到1搭建nest框架/问题.md",
+    "practice/从0到1搭建nest框架/框架初始化.md",
+    "practice/从0到1搭建nest框架.md",
     "nest/nestjs使用文档/README.md",
+    "nest/nestjs使用文档/Configuration.md",
+    "运维/README.md",
+    "云服务器",
+    "未命名.md",
+    "运维",
+    "php/搭建LNMP+wordpress搭建个人网站.md",
+    "php",
+    "README.md",
+    "works",
+    "Attach/Pasted image 20230616210841.png",
+    "practice/从0到1搭建nest框架/编写User模块.md",
     "nest/nestjs使用文档/Serialization.md",
+    "nest/nestjs使用文档/Validation.md",
+    "nest/nestjs使用文档/Database.md",
+    "nest/nestjs使用文档/Dynamic-modules.md",
+    "nest/总结/README.md",
+    "practice/从0到1搭建nest框架",
+    "TypeORM/README.md",
+    "TypeORM/Relations.md",
     "nest/nestjs使用文档/Execution-context.md",
     "nest/nestjs使用文档/Interceptors.md",
     "nest/nestjs使用文档/Exception-filters.md",
     "nest/nestjs使用文档/Guards.md",
-    "nest/nestjs使用文档/Database.md",
     "nest/nestjs使用文档/Pipes.md",
-    "practice/从0到1搭建nest框架.md",
-    "TypeORM/DataSource.md",
-    "nest/总结/README.md",
-    "site.md",
     "cedict_ts.u8",
-    "nest/nestjs使用文档/Validation.md",
     "nest/总结/nest的验证流程.canvas",
-    "nest的验证流程.md",
-    "nest/总结/nest的验证流程.md",
     "nest/总结",
-    "nest/nestjs使用文档/Controllers.md",
-    "nest/class-validator.md",
-    "'TypeORM/Entity.md",
-    "TypeORM/Query-Builder.md",
-    "TypeORM/Entity-Manager-and-Repository.md",
-    "TypeORM/'Entity.md",
-    "TypeORM/Entity.md",
-    "TypeORM/Entity Manager and Repository.md",
-    "'TypeORM",
-    "TypeORM",
-    "System/templates",
-    "System",
     "nest/nestjs使用文档/未命名.canvas",
-    "practice",
-    "实践",
-    "nest/nestjs使用文档",
-    "nest/官方文档翻译",
     "Attach/Pasted image 20230613223314.png",
     "Attach/Pasted image 20230613223223.png",
     "Pasted image 20230613222747.png",
